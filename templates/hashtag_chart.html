@@ -16,7 +16,7 @@
 </html>
 
 <script>
-   var ctx = document.getElementById("hashtag_chart");
+   var ctx = document.getElementById("hashtag_chart").getContext('2d');
    var myChart = new Chart(ctx, {
     	type: 'horizontalBar',
     	data: {
