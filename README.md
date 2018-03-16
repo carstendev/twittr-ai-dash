@@ -1,2 +1,2 @@
 # twittr-ai-dash
-Dashboard displaying twitter analysis using charts.js and flask.
+Dashboard displaying twitter analysis of twittr-ai using charts.js, flask and kafka.
